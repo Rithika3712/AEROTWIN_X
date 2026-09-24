@@ -670,3 +670,5 @@ This project is intended for academic, research, and demonstration purposes.
 
 **AeroTwin Development Team**  
 AI-Enabled Real-Time Digital Twin System for MALE UAV Engine Health Monitoring
+
+_Last updated: September 2026._
